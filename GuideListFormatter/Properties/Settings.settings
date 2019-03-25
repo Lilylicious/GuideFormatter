@@ -1,7 +1,24 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GuideListFormatter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PreviousClass" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CurrentVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.6</Value>
+    </Setting>
+    <Setting Name="Class1Colour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#800040</Value>
+    </Setting>
+    <Setting Name="Class2Colour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#0080ff</Value>
+    </Setting>
+    <Setting Name="Class3Colour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#00dd00</Value>
+    </Setting>
+    <Setting Name="CurrentVersionHighlight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#ff8040</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

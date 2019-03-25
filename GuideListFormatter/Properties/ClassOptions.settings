@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GuideListFormatter.Properties" GeneratedClassName="ClassOptions">
+  <Profiles />
+  <Settings>
+    <Setting Name="HierophantName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Hie</Value>
+    </Setting>
+    <Setting Name="InquisitorName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Inq</Value>
+    </Setting>
+    <Setting Name="GuardianName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gua</Value>
+    </Setting>
+    <Setting Name="SlayerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SL</Value>
+    </Setting>
+    <Setting Name="GladiatorName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GL</Value>
+    </Setting>
+    <Setting Name="ChampionName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CH</Value>
+    </Setting>
+    <Setting Name="JuggernautName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">J</Value>
+    </Setting>
+    <Setting Name="ChieftainName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C</Value>
+    </Setting>
+    <Setting Name="BerserkerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B</Value>
+    </Setting>
+    <Setting Name="RaiderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Raid</Value>
+    </Setting>
+    <Setting Name="PathfinderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PF</Value>
+    </Setting>
+    <Setting Name="DeadeyeName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dead</Value>
+    </Setting>
+    <Setting Name="TricksterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Trickster</Value>
+    </Setting>
+    <Setting Name="AssassinName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Assassin</Value>
+    </Setting>
+    <Setting Name="SaboteurName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Saboteur</Value>
+    </Setting>
+    <Setting Name="OccultistName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OCC</Value>
+    </Setting>
+    <Setting Name="ElementalistName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ELE</Value>
+    </Setting>
+    <Setting Name="NecromancerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NEC</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

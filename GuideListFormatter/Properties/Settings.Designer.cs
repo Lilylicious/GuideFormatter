@@ -94,5 +94,41 @@ namespace GuideListFormatter.Properties {
                 this["CurrentVersionHighlight"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("#ff0000")]
+        public string hcColour {
+            get {
+                return ((string)(this["hcColour"]));
+            }
+            set {
+                this["hcColour"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("#8080ff")]
+        public string ssfColour {
+            get {
+                return ((string)(this["ssfColour"]));
+            }
+            set {
+                this["ssfColour"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("#ff80ff")]
+        public string lsColour {
+            get {
+                return ((string)(this["lsColour"]));
+            }
+            set {
+                this["lsColour"] = value;
+            }
+        }
     }
 }

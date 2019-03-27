@@ -20,5 +20,14 @@
     <Setting Name="CurrentVersionHighlight" Type="System.String" Scope="User">
       <Value Profile="(Default)">#ff8040</Value>
     </Setting>
+    <Setting Name="hcColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#ff0000</Value>
+    </Setting>
+    <Setting Name="ssfColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#8080ff</Value>
+    </Setting>
+    <Setting Name="lsColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#ff80ff</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

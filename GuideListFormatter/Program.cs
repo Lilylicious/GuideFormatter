@@ -16,7 +16,7 @@ namespace GuideListFormatter
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new guideListFormatter());
+            Application.Run(new GuideListFormatter());
         }
     }
 }
